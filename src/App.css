@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 /* 
 .App-logo {
@@ -39,7 +39,24 @@
 
 .header {
 	margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.logo-alisa {
+	margin: 33px;
+}
+
+.list-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.item-nav {
+	float: left;
+  margin: 7px 10px
 }

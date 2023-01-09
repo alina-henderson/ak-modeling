@@ -4,7 +4,7 @@ import Nav from "./Nav";
 function Header(props) {
 	return (
 		<div className="header">
-			<Logo />
+			<Logo className="logo-alisa"/>
       <Nav />
 		</div>
 	);
