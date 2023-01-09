@@ -1,10 +1,11 @@
 import { ReactComponent as Logo } from "./Alisa Kornilova.svg";
+import Nav from "./Nav";
 
-function Header() {
+function Header(props) {
 	return (
-		<div>
-			<h1 className="header-name">Alisa Kornilova</h1>
+		<div className="header">
 			<Logo />
+      <Nav />
 		</div>
 	);
 }
