@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ak-modeling/static/css/main.a8021775.css",
+    "main.js": "/ak-modeling/static/js/main.93a551b2.js",
+    "static/js/787.319d0bb6.chunk.js": "/ak-modeling/static/js/787.319d0bb6.chunk.js",
+    "static/media/GothicA1-Regular.ttf": "/ak-modeling/static/media/GothicA1-Regular.a46ec8d043583af7649d.ttf",
+    "static/media/portrait.jpg": "/ak-modeling/static/media/portrait.ed34ae32740845124ca6.jpg",
+    "static/media/IMG_1.jpeg": "/ak-modeling/static/media/IMG_1.7e553c7211cc2c0b5834.jpeg",
+    "static/media/IMG_3.jpeg": "/ak-modeling/static/media/IMG_3.9518682b75c7f6814db6.jpeg",
+    "static/media/IMG_6.jpeg": "/ak-modeling/static/media/IMG_6.925150766cc1b022e33c.jpeg",
+    "static/media/IMG_5.jpeg": "/ak-modeling/static/media/IMG_5.ffe1af50fee500f46fe8.jpeg",
+    "static/media/IMG_4.jpeg": "/ak-modeling/static/media/IMG_4.3c4c4f6975a1745294df.jpeg",
+    "static/media/Alisa Kornilova.svg": "/ak-modeling/static/media/Alisa Kornilova.ddde145f45a7a09e20bdd90e6e7156d8.svg",
+    "static/media/IMG_2.jpeg": "/ak-modeling/static/media/IMG_2.488ecb0d1167977296d9.jpeg",
+    "static/media/Instagram.svg": "/ak-modeling/static/media/Instagram.bd2a3a9ea308756bbdb44486736fdc76.svg",
+    "static/media/Facebook.svg": "/ak-modeling/static/media/Facebook.5629e2036ec19767db2c91f658d373b2.svg",
+    "static/media/YouTube.svg": "/ak-modeling/static/media/YouTube.f154d6330c2da2b2087b2eaed05d7cf8.svg",
+    "index.html": "/ak-modeling/index.html",
+    "main.a8021775.css.map": "/ak-modeling/static/css/main.a8021775.css.map",
+    "main.93a551b2.js.map": "/ak-modeling/static/js/main.93a551b2.js.map",
+    "787.319d0bb6.chunk.js.map": "/ak-modeling/static/js/787.319d0bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8021775.css",
+    "static/js/main.93a551b2.js"
+  ]
+}
