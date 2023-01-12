@@ -1,3 +1,4 @@
+import { ReactComponent as IG } from "./images/Instagram.svg";
 import { ReactComponent as FB } from "./images/Facebook.svg";
 import { ReactComponent as YT } from "./images/YouTube.svg";
 
@@ -5,12 +6,15 @@ function Footer() {
 	return (
 		<div className="footer">
 			<div className="footer-black">
-				<FB />
-				<YT />
+				<div className="footer-icons">
+					<FB />
+					<YT />
+					<IG />
+				</div>
 			</div>
 			<div className="footer-gray">
-				<h2 className="footer-signature">&copyAlina Henderson</h2>
-				<h2 className="footer-email">alina.henders@gmail.com</h2>
+				<h2 className="footer-text footer-signature">&copy;2023 Alina Henderson</h2>
+				<h2 className="footer-text footer-email">alina.henders@gmail.com</h2>
 			</div>
 		</div>
 	);
