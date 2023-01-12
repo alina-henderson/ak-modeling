@@ -67,3 +67,46 @@
 	font-family: "Regular";
 	font-size: 30px;
 }
+
+.portrait {
+	margin-top: 43px;
+}
+
+.photo-grid {
+	background-color: rgba(182, 181, 179, 1);
+	padding: 50px 28px;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	gap: 15px;
+	grid-auto-flow: column;
+}
+
+.photo-item {
+	min-width: 0;
+	height: 735px;
+	overflow: hidden;
+	margin: 0;
+}
+
+img {
+	display: block;
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	margin: 0;
+}
+
+.footer-black {
+  max-width: 100vw;
+  height: 37px;
+  background-color: black;
+
+}
+
+.footer-gray {
+  max-width: 100vw;
+  height: 37px;
+  background-color: black;
+
+}
